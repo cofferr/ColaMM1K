@@ -3,6 +3,9 @@
 Aplicación Streamlit para simular y analizar el modelo de colas **M/M/1/K/∞**
 usando el framework de agentes **Mesa**.
 
+## Nombres:
+Camilo López
+Juan José Márquez
 ## Estructura del Proyecto
 
 ```
